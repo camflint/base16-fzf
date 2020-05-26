@@ -13,10 +13,10 @@ set -l color08 '#000090'
 set -l color09 '#006565'
 set -l color0A '#006565'
 set -l color0B '#730073'
-set -l color0C '#755B00'
+set -l color0C '#755b00'
 set -l color0D '#007300'
 set -l color0E '#840000'
-set -l color0F '#755B00'
+set -l color0F '#755b00'
 
 set -U FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS"\
 " --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
